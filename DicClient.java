@@ -16,22 +16,6 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.UnknownHostException;
 
-//public enum choixJoueur1 {  // dans le fichier Civilite.java  
-//	  
-//    PIERRE(0), PAPIER(1), CISEAUX(2) ;  
-//      
-//     private int choixJoueur1 ;  
-//      
-//     choixJoueur1(int i) {
-//    	 this.choixJoueur1 = choixJoueur1 ;
-//	}  
-//      
-//    public String getDesignation() {  
-//         return  this.abreviation ;  
-//    }  
-//}
-
-
 public class DicClient {
 
     public final static String SERVER = "127.0.0.1";
